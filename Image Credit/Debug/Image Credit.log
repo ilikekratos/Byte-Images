@@ -1,0 +1,6 @@
+﻿  Image.cpp
+C:\Users\iliea\source\repos\Image Credit\Image Credit\Image.cpp(352,41): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\iliea\source\repos\Image Credit\Image Credit\Image.cpp(370,51): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\iliea\source\repos\Image Credit\Image Credit\Image.cpp(390,36): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\iliea\source\repos\Image Credit\Image Credit\Image.cpp(526,31): warning C4018: '<': signed/unsigned mismatch
+  Image Credit.vcxproj -> C:\Users\iliea\source\repos\Image Credit\Debug\Image Credit.exe
